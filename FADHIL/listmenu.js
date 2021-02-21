@@ -220,7 +220,7 @@ const listmenu = (prefix) => {
 ├➲ *${prefix}simih [On/Off]*
 ╰──────────────────────
 
-╭────「 *SÓ O BRUXINHO PODE USAR* 」─────
+╭────「 *SÓ O ANJOS PODE USAR* 」─────
 ├➲ *${prefix}addprem [marque o cara]*
 ├➲ *${prefix}removeprem [marque o cara]*
 ├➲ *${prefix}setppbot*
@@ -259,9 +259,9 @@ const listmenu = (prefix) => {
 ╰──────────────────────
 
 	
-               *© BRUXINHO MODS*
+               *© ANJOS MODS*
 ╲    ╱    ● ᏴϴͲ●ᎷᎬΝႮ●
-       ╱▔▔▔▔▔╲       Autor    : ARR157 BOT
+       ╱▔▔▔▔▔╲       Autor    : ANJOS
       ┃┈▇┈┈▇┈┃      
 ╭╮┣━━━━━━┫╭╮    
 ┃┃┃┈┈┈┈┈┈┃┃┃    
